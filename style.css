@@ -1,0 +1,35 @@
+#canvas {
+}
+html {
+  height:100%;
+background-image: url(https://uprostim.com/wp-content/uploads/2021/03/image062-88.jpg);
+font-family: "Roboto";
+  font-style: normal;
+}
+
+body {
+line-height: 300%;
+}
+.Text_111
+{
+    margin: 5px 5px 5px 5px;
+	width:95%;
+	height:95%;
+    padding: 10px 10px;
+  position:relative;
+    font-size: 110%;
+	line-height: 10%;
+    background: #efefef82;
+    color: #000;
+}
+
+
+.Text_block {
+    margin: 5px 5px 5px 5px;
+    padding: 10px 10px;
+  position:relative;
+    font-size: 100%;
+line-height: 95%;
+    background: #efefef82;
+    color: #000;
+}
